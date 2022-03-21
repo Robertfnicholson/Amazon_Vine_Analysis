@@ -3,7 +3,7 @@
 ## Overview of the Analysis
 In this challenge, I analyzed the Amazon Tools Review dataset. This involved using PySpark to perform the ETL process to 
 extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. It 
-then involved using PySpark to determine if there was any bias toward favorable reviews from Vine members in your dataset. </p>
+then involved using PySpark to determine if there was any bias toward favorable reviews from Vine members in the dataset. </p>
 
 ## Results
 The challenge instructions directed me to first filter the Vine_table to only those reviews that received at least 20 
