@@ -13,10 +13,10 @@ called Helpful_votes_50_df” to hold these results. See “Helpful_votes_50_df�
 
 ![Helpful_votes_50_df.png]( https://github.com/Robertfnicholson/Amazon_Vine_Analysis/blob/2eb57f4d849261ec1d1230b900a5a473eece991d/Helpful_votes_50_df.png)
 
-•	There were 4,825 total reviews in the “Helpful_votes_50_df.” 
-•	Of those, 109 or 2.3% were paid Vine reviews and 4,716 or 97.7% were non-Vine reviews.
-•	There were 2,288 total five-star reviews.
-•	Of those 65 or 2.8% were paid Vine reviews and 2,223 or 97.2% were non-Vine reviews.</p>
+*	There were 4,825 total reviews in the “Helpful_votes_50_df.” 
+*	Of those, 109 or 2.3% were paid Vine reviews and 4,716 or 97.7% were non-Vine reviews.
+*	There were 2,288 total five-star reviews.
+*	Of those 65 or 2.8% were paid Vine reviews and 2,223 or 97.2% were non-Vine reviews.</p>
 
 ## Summary
 A slight positivity bias may exist for the reviews in the Vine program since the percentage of Vine five-star ratings, 2.8%, 
